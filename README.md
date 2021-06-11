@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nobuta992
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning on spectroscopy analysis
+
 
 
 <!---
